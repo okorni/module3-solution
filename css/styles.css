@@ -2,6 +2,10 @@ body {
   background-color: white;
 }
 
+#nav-list {
+  background-color: yellow;
+}
+
 ul > li > a {
   text-align: center;
 }
