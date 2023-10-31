@@ -2,7 +2,7 @@ body {
   background-color: white;
 }
 
-#nav-list > li > a {
+ul > li > a {
   text-align: center;
 }
 
