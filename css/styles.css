@@ -18,7 +18,7 @@ ul > li {
 }
 
 div.container-fluid > p.thousand {
-   padding-top: 50px;
+   padding-top: 24px;
    height: 1000px;
    background-color: #FFFDD0;
 }
