@@ -17,7 +17,7 @@ ul > li {
   background-color: yellow;
 }
 
-div.container-fluid > p.yo {
+div.container-fluid > p.thousand {
    height: 1000px;
    background-color: green;
 }
