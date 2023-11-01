@@ -3,12 +3,13 @@ body {
 }
 
 div#collapsable-nav {
-  background-color: yellow;
+/*  background-color: yellow; */
 }
 
 ul > li > a {
   text-align: center;
   border-style: 1px;
+  background-color: yellow;
 }
 
 h1 {
