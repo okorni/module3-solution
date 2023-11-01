@@ -23,6 +23,10 @@ div.container-fluid > p.thousand {
    background-color: #FFFDD0;
 }
 
+ul#nav-list > li:not(1) {
+  border-top: none;
+}
+
  h1 {
 /*  text-align: center; */
 } 
